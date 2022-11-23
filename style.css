@@ -1,0 +1,18 @@
+body{
+	background:#db9581
+}
+div{
+	background:#918e4f;
+	color:#995a48;
+	text-align: center
+}
+.intro{
+	background:#eebf99;
+	text-align:center;
+}
+h1{
+	text-decoration: underline;
+	text-transform:uppercase;
+	letter-spacing:3px;
+}
+}
